@@ -1,1 +1,10 @@
 C:\Users\konni\konniheim\Prufa\Prufa\bin\Debug\Prufa.exe.config
+C:\Users\kari k\prufa\prufa\Prufa\Prufa\bin\Debug\Prufa.exe.config
+C:\Users\kari k\prufa\prufa\Prufa\Prufa\bin\Debug\Prufa.exe
+C:\Users\kari k\prufa\prufa\Prufa\Prufa\bin\Debug\Prufa.pdb
+C:\Users\kari k\prufa\prufa\Prufa\Prufa\obj\Debug\Prufa.csprojResolveAssemblyReference.cache
+C:\Users\kari k\prufa\prufa\Prufa\Prufa\obj\Debug\Prufa.Form1.resources
+C:\Users\kari k\prufa\prufa\Prufa\Prufa\obj\Debug\Prufa.Properties.Resources.resources
+C:\Users\kari k\prufa\prufa\Prufa\Prufa\obj\Debug\Prufa.csproj.GenerateResource.Cache
+C:\Users\kari k\prufa\prufa\Prufa\Prufa\obj\Debug\Prufa.exe
+C:\Users\kari k\prufa\prufa\Prufa\Prufa\obj\Debug\Prufa.pdb
